@@ -1,5 +1,5 @@
 # simple-HTTPserver
-情報科学実験で作成した簡易HTTPserver
+簡易HTTPserver
 
 ## About
 - POSTメソッド対応
